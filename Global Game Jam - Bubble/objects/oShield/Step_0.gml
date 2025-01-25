@@ -1,4 +1,6 @@
 /// @description
+if(global.pause) exit;
+
 if(place_meeting(x, y, oPlayer) && merged == false)
 {
 	merged = true;

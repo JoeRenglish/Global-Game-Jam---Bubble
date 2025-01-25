@@ -13,3 +13,5 @@ hsp = 0;
 image_speed = 0;
 
 animation_state = 0;
+
+state = "free";

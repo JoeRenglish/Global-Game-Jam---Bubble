@@ -1,4 +1,6 @@
 /// @description
+if(global.pause) exit;
+
 
 col_player = place_meeting(x, y, oPlayer);
 col_bub = instance_place(x, y, oBubble);

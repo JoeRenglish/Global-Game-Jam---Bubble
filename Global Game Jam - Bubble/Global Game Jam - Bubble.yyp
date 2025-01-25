@@ -44,7 +44,6 @@
     {"id":{"name":"oHazard","path":"objects/oHazard/oHazard.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oShield","path":"objects/oShield/oShield.yy",},},
-    {"id":{"name":"oShieldPower","path":"objects/oShieldPower/oShieldPower.yy",},},
     {"id":{"name":"oSpike","path":"objects/oSpike/oSpike.yy",},},
     {"id":{"name":"oSpikeSpin","path":"objects/oSpikeSpin/oSpikeSpin.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},

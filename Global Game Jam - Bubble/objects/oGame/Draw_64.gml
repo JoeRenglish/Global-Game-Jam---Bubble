@@ -13,3 +13,17 @@ if(room == rmTitle)
 	draw_set_font(fDefault);
 	draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/1.5, "Press Enter to Start");
 }
+
+if(instance_exists(oPlayer))
+{
+	if(oPlayer.state = "dead")
+	{
+		draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/4,"Oh dear! You popped!");
+		draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/1.5, "Press Enter to retry level");
+	}
+}
+
+if(global.pause && oPlayer.state != "dead")
+{
+	draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/2, "Paused")
+}
