@@ -1,3 +1,2 @@
 /// @description
-merged = false;
-
+game_end();

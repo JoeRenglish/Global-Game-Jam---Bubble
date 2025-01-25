@@ -31,4 +31,3 @@ function set_resolution(_scale = 2)
 	);
 }
 
-set_resolution();
