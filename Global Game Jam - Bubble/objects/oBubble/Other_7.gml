@@ -1,5 +1,5 @@
 /// @description
 if(sprite_index == sBubblePop)
 {
-	instance_destroy();
+	image_index = -1;
 }
