@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rmLevel1",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rmLevel1/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -38,6 +38,7 @@
     {"name":"inst_7985E40E","path":"rooms/rmLevel1/rmLevel1.yy",},
     {"name":"inst_3614C2AC","path":"rooms/rmLevel1/rmLevel1.yy",},
     {"name":"inst_6D1AC48F","path":"rooms/rmLevel1/rmLevel1.yy",},
+    {"name":"inst_7BAEA822","path":"rooms/rmLevel1/rmLevel1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -78,6 +79,7 @@
         {"$GMRInstance":"v1","%Name":"inst_7985E40E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7985E40E","objectId":{"name":"oShield","path":"objects/oShield/oShield.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":864.0,},
         {"$GMRInstance":"v1","%Name":"inst_3614C2AC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3614C2AC","objectId":{"name":"oSpikeSpin","path":"objects/oSpikeSpin/oSpikeSpin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":432.0,},
         {"$GMRInstance":"v1","%Name":"inst_6D1AC48F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D1AC48F","objectId":{"name":"oSpikeSpin","path":"objects/oSpikeSpin/oSpikeSpin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-1.0,"scaleY":1.0,"x":320.0,"y":432.0,},
+        {"$GMRInstance":"v1","%Name":"inst_7BAEA822","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7BAEA822","objectId":{"name":"oBubble","path":"objects/oBubble/oBubble.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":336.0,"y":432.0,},
       ],"layers":[],"name":"Hazards","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

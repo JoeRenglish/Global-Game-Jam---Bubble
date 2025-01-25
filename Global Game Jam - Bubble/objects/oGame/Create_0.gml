@@ -1,5 +1,6 @@
 /// @description
 randomize();
+global.levelNumber = "";
 
 global.currentTime = 0;
 global.pause = false;

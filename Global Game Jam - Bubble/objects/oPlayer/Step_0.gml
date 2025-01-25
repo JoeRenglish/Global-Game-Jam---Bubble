@@ -80,5 +80,16 @@ if(!global.pause) switch(state)
 		sprite_index = sBubblePop;
 	
 	break;
+	
+	case "wait":
+		wait--;
+		if(wait <= 0)
+		{
+			wait = wait_reset;
+			state = "free";
+		}
+		
+		
+	break;
 
 }

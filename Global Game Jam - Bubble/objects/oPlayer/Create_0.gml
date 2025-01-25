@@ -14,4 +14,7 @@ image_speed = 0;
 
 animation_state = 0;
 
-state = "free";
+state = "wait";
+
+wait = 90;
+wait_reset = wait;

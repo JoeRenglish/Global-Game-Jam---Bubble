@@ -50,6 +50,7 @@
     {"id":{"name":"rmLevel1","path":"rooms/rmLevel1/rmLevel1.yy",},},
     {"id":{"name":"rmTemplate","path":"rooms/rmTemplate/rmTemplate.yy",},},
     {"id":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
+    {"id":{"name":"rmTutorial","path":"rooms/rmTutorial/rmTutorial.yy",},},
     {"id":{"name":"CameraScripts","path":"scripts/CameraScripts/CameraScripts.yy",},},
     {"id":{"name":"Constants","path":"scripts/Constants/Constants.yy",},},
     {"id":{"name":"ScreenShake","path":"scripts/ScreenShake/ScreenShake.yy",},},
@@ -70,6 +71,7 @@
     {"roomId":{"name":"rmTitle","path":"rooms/rmTitle/rmTitle.yy",},},
     {"roomId":{"name":"rmTemplate","path":"rooms/rmTemplate/rmTemplate.yy",},},
     {"roomId":{"name":"rmLevel1","path":"rooms/rmLevel1/rmLevel1.yy",},},
+    {"roomId":{"name":"rmTutorial","path":"rooms/rmTutorial/rmTutorial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
