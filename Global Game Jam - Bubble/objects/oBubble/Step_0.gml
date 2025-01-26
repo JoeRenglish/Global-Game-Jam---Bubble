@@ -8,6 +8,7 @@ col_bub = instance_place(x, y, oBubble);
 if((col_bub != noone || col_player) && merged == false)
 {
 	merged = true;
+	audio_play_sound(sndBubblePickup, 1, false);
 	global.levelScore++;
 	if(col_player)
 	{

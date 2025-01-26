@@ -18,3 +18,5 @@ state = "wait";
 
 wait = 90;
 wait_reset = wait;
+
+pop = false;
