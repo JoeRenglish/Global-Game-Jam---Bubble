@@ -29,7 +29,7 @@ if((col_bub != noone || col_player) && merged == false)
 
 if(merged)
 {
-	//if(!instance_exists(col_bub)) exit;
+	if(!instance_exists(combine)) combine = oPlayer;
 	x = combine.x + combined_x;
 	y = combine.y + combined_y;
 }
