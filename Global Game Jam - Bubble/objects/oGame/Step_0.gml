@@ -20,4 +20,17 @@ if(instance_exists(oPlayer))
 			room_restart();
 		}
 	}
+	
+	if(oPlayer.state = "win")
+	{
+		timer--;
+		if(timer <= 0)
+		{
+			global.gameScore += global.levelScore;
+			timer = timer_reset;
+			room_goto_next();
+		}
+	}
+	
+	
 }

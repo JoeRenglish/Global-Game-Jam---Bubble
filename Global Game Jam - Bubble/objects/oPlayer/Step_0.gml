@@ -91,5 +91,9 @@ if(!global.pause) switch(state)
 		
 		
 	break;
+	
+	case "win":
+		image_index = 0;
+	break;
 
 }

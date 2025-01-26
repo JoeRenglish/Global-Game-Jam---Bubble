@@ -57,9 +57,22 @@ if(instance_exists(oPlayer))
 		draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/2, "Level " + string(global.levelNumber));
 		draw_set_font(fDefault);
 	}
+	
+	if(oPlayer.state = "win")
+	{
+		draw_set_font(fTitle);
+		draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/2, "You made it! \nYou earned " + string(global.levelScore) + " points.");
+		draw_set_font(fDefault);
+	}
 }
 
 if(global.pause && oPlayer.state != "dead")
 {
 	draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/2, "Paused")
 }
+
+if(room == rmWinScreen)
+{
+	draw_text(SCREEN_WIDTH/2, SCREEN_HEIGHT/3, "Thanks for playing! \nYour final score was " + string(global.gameScore) + ". \nPress Enter to play again.")
+}
+
