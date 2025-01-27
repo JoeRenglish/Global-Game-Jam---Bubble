@@ -70,6 +70,7 @@
     {"id":{"name":"sBubblePop","path":"sprites/sBubblePop/sBubblePop.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"sGoal","path":"sprites/sGoal/sGoal.yy",},},
+    {"id":{"name":"sPlayer_1","path":"sprites/sPlayer_1/sPlayer_1.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sShield","path":"sprites/sShield/sShield.yy",},},
     {"id":{"name":"sShieldPop","path":"sprites/sShieldPop/sShieldPop.yy",},},

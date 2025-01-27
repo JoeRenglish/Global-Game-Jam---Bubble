@@ -19,7 +19,8 @@
   "height":16,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"4c60341d-1b65-437e-b142-1d87ebd73266","blendMode":0,"displayName":"default","isLocked":false,"name":"4c60341d-1b65-437e-b142-1d87ebd73266","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9f755dd6-f7b1-48a7-af00-b6a7a784248a","blendMode":0,"displayName":"default (2)","isLocked":false,"name":"9f755dd6-f7b1-48a7-af00-b6a7a784248a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4c60341d-1b65-437e-b142-1d87ebd73266","blendMode":0,"displayName":"default","isLocked":false,"name":"4c60341d-1b65-437e-b142-1d87ebd73266","opacity":25.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sBubble",
   "nineSlice":null,
